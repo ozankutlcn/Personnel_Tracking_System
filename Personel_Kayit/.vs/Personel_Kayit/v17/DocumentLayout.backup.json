@@ -1,0 +1,90 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ozan_\\source\\repos\\Personel_Kayit\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5CA698AF-9137-4DCD-8B86-3F971A7C3169}|Personel_Kayit\\Personel_Kayit.csproj|c:\\users\\ozan_\\source\\repos\\personel_kayit\\personel_kayit\\frmgiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CA698AF-9137-4DCD-8B86-3F971A7C3169}|Personel_Kayit\\Personel_Kayit.csproj|solutionrelative:personel_kayit\\frmgiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CA698AF-9137-4DCD-8B86-3F971A7C3169}|Personel_Kayit\\Personel_Kayit.csproj|c:\\users\\ozan_\\source\\repos\\personel_kayit\\personel_kayit\\frmgiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5CA698AF-9137-4DCD-8B86-3F971A7C3169}|Personel_Kayit\\Personel_Kayit.csproj|solutionrelative:personel_kayit\\frmgiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CA698AF-9137-4DCD-8B86-3F971A7C3169}|Personel_Kayit\\Personel_Kayit.csproj|c:\\users\\ozan_\\source\\repos\\personel_kayit\\personel_kayit\\frmgrafikler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CA698AF-9137-4DCD-8B86-3F971A7C3169}|Personel_Kayit\\Personel_Kayit.csproj|solutionrelative:personel_kayit\\frmgrafikler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CA698AF-9137-4DCD-8B86-3F971A7C3169}|Personel_Kayit\\Personel_Kayit.csproj|c:\\users\\ozan_\\source\\repos\\personel_kayit\\personel_kayit\\frmgrafikler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5CA698AF-9137-4DCD-8B86-3F971A7C3169}|Personel_Kayit\\Personel_Kayit.csproj|solutionrelative:personel_kayit\\frmgrafikler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmGiris.cs",
+              "DocumentMoniker": "C:\\Users\\ozan_\\source\\repos\\Personel_Kayit\\Personel_Kayit\\FrmGiris.cs",
+              "RelativeDocumentMoniker": "Personel_Kayit\\FrmGiris.cs",
+              "ToolTip": "C:\\Users\\ozan_\\source\\repos\\Personel_Kayit\\Personel_Kayit\\FrmGiris.cs",
+              "RelativeToolTip": "Personel_Kayit\\FrmGiris.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAwCcAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T00:42:19.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmGiris.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ozan_\\source\\repos\\Personel_Kayit\\Personel_Kayit\\FrmGiris.cs",
+              "RelativeDocumentMoniker": "Personel_Kayit\\FrmGiris.cs",
+              "ToolTip": "C:\\Users\\ozan_\\source\\repos\\Personel_Kayit\\Personel_Kayit\\FrmGiris.cs [Design]",
+              "RelativeToolTip": "Personel_Kayit\\FrmGiris.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T00:36:57.737Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmGrafikler.cs",
+              "DocumentMoniker": "C:\\Users\\ozan_\\source\\repos\\Personel_Kayit\\Personel_Kayit\\FrmGrafikler.cs",
+              "RelativeDocumentMoniker": "Personel_Kayit\\FrmGrafikler.cs",
+              "ToolTip": "C:\\Users\\ozan_\\source\\repos\\Personel_Kayit\\Personel_Kayit\\FrmGrafikler.cs",
+              "RelativeToolTip": "Personel_Kayit\\FrmGrafikler.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAwCcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T00:26:20.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmGrafikler.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ozan_\\source\\repos\\Personel_Kayit\\Personel_Kayit\\FrmGrafikler.cs",
+              "RelativeDocumentMoniker": "Personel_Kayit\\FrmGrafikler.cs",
+              "ToolTip": "C:\\Users\\ozan_\\source\\repos\\Personel_Kayit\\Personel_Kayit\\FrmGrafikler.cs [Design]",
+              "RelativeToolTip": "Personel_Kayit\\FrmGrafikler.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T00:18:53.984Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
