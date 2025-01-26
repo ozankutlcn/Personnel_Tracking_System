@@ -42,7 +42,7 @@ Bu proje, ADO.NET kullanılarak oluşturulmuş bir **Personel Takip Sistemi** uy
 
 1. **Projeyi Klonlayın:**  
    ```bash
-   git clone https://github.com/kullaniciadi/personel-takip-sistemi.git
+   git clone https://github.com/ozankutlcn/Personnel_Tracking_System.git
 
 
 ![image](https://github.com/user-attachments/assets/fade2959-4df7-442f-a5fb-756c86583945)
