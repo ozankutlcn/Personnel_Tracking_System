@@ -3,20 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\ozan_\\source\\repos\\Personel_Kayit\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5CA698AF-9137-4DCD-8B86-3F971A7C3169}|Personel_Kayit\\Personel_Kayit.csproj|c:\\users\\ozan_\\source\\repos\\personel_kayit\\personel_kayit\\frmgiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5CA698AF-9137-4DCD-8B86-3F971A7C3169}|Personel_Kayit\\Personel_Kayit.csproj|solutionrelative:personel_kayit\\frmgiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5CA698AF-9137-4DCD-8B86-3F971A7C3169}|Personel_Kayit\\Personel_Kayit.csproj|c:\\users\\ozan_\\source\\repos\\personel_kayit\\personel_kayit\\frm\u0130statistik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CA698AF-9137-4DCD-8B86-3F971A7C3169}|Personel_Kayit\\Personel_Kayit.csproj|solutionrelative:personel_kayit\\frm\u0130statistik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5CA698AF-9137-4DCD-8B86-3F971A7C3169}|Personel_Kayit\\Personel_Kayit.csproj|c:\\users\\ozan_\\source\\repos\\personel_kayit\\personel_kayit\\frmgiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{5CA698AF-9137-4DCD-8B86-3F971A7C3169}|Personel_Kayit\\Personel_Kayit.csproj|solutionrelative:personel_kayit\\frmgiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{5CA698AF-9137-4DCD-8B86-3F971A7C3169}|Personel_Kayit\\Personel_Kayit.csproj|c:\\users\\ozan_\\source\\repos\\personel_kayit\\personel_kayit\\frm\u0130statistik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5CA698AF-9137-4DCD-8B86-3F971A7C3169}|Personel_Kayit\\Personel_Kayit.csproj|solutionrelative:personel_kayit\\frm\u0130statistik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CA698AF-9137-4DCD-8B86-3F971A7C3169}|Personel_Kayit\\Personel_Kayit.csproj|C:\\Users\\ozan_\\source\\repos\\Personel_Kayit\\personel_kayit\\frmanaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5CA698AF-9137-4DCD-8B86-3F971A7C3169}|Personel_Kayit\\Personel_Kayit.csproj|solutionrelative:personel_kayit\\frmanaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5CA698AF-9137-4DCD-8B86-3F971A7C3169}|Personel_Kayit\\Personel_Kayit.csproj|c:\\users\\ozan_\\source\\repos\\personel_kayit\\personel_kayit\\frmgrafikler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5CA698AF-9137-4DCD-8B86-3F971A7C3169}|Personel_Kayit\\Personel_Kayit.csproj|solutionrelative:personel_kayit\\frmgrafikler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5CA698AF-9137-4DCD-8B86-3F971A7C3169}|Personel_Kayit\\Personel_Kayit.csproj|c:\\users\\ozan_\\source\\repos\\personel_kayit\\personel_kayit\\frmgrafikler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{5CA698AF-9137-4DCD-8B86-3F971A7C3169}|Personel_Kayit\\Personel_Kayit.csproj|C:\\Users\\ozan_\\source\\repos\\Personel_Kayit\\personel_kayit\\frmgiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5CA698AF-9137-4DCD-8B86-3F971A7C3169}|Personel_Kayit\\Personel_Kayit.csproj|solutionrelative:personel_kayit\\frmgiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CA698AF-9137-4DCD-8B86-3F971A7C3169}|Personel_Kayit\\Personel_Kayit.csproj|C:\\Users\\ozan_\\source\\repos\\Personel_Kayit\\personel_kayit\\frmgrafikler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{5CA698AF-9137-4DCD-8B86-3F971A7C3169}|Personel_Kayit\\Personel_Kayit.csproj|solutionrelative:personel_kayit\\frmgrafikler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CA698AF-9137-4DCD-8B86-3F971A7C3169}|Personel_Kayit\\Personel_Kayit.csproj|C:\\Users\\ozan_\\source\\repos\\Personel_Kayit\\personel_kayit\\frmgiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CA698AF-9137-4DCD-8B86-3F971A7C3169}|Personel_Kayit\\Personel_Kayit.csproj|solutionrelative:personel_kayit\\frmgiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -35,6 +47,43 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Frm\u0130statistik.cs",
+              "DocumentMoniker": "C:\\Users\\ozan_\\source\\repos\\Personel_Kayit\\Personel_Kayit\\Frm\u0130statistik.cs",
+              "RelativeDocumentMoniker": "Personel_Kayit\\Frm\u0130statistik.cs",
+              "ToolTip": "C:\\Users\\ozan_\\source\\repos\\Personel_Kayit\\Personel_Kayit\\Frm\u0130statistik.cs",
+              "RelativeToolTip": "Personel_Kayit\\Frm\u0130statistik.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAowEwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T11:22:30.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Frm\u0130statistik.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ozan_\\source\\repos\\Personel_Kayit\\Personel_Kayit\\Frm\u0130statistik.cs",
+              "RelativeDocumentMoniker": "Personel_Kayit\\Frm\u0130statistik.cs",
+              "ToolTip": "C:\\Users\\ozan_\\source\\repos\\Personel_Kayit\\Personel_Kayit\\Frm\u0130statistik.cs [Design]",
+              "RelativeToolTip": "Personel_Kayit\\Frm\u0130statistik.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T11:22:27.418Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmAnaForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ozan_\\source\\repos\\Personel_Kayit\\Personel_Kayit\\FrmAnaForm.cs",
+              "RelativeDocumentMoniker": "Personel_Kayit\\FrmAnaForm.cs",
+              "ToolTip": "C:\\Users\\ozan_\\source\\repos\\Personel_Kayit\\Personel_Kayit\\FrmAnaForm.cs [Design]",
+              "RelativeToolTip": "Personel_Kayit\\FrmAnaForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T11:04:39.577Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "FrmGiris.cs",
               "DocumentMoniker": "C:\\Users\\ozan_\\source\\repos\\Personel_Kayit\\Personel_Kayit\\FrmGiris.cs",
               "RelativeDocumentMoniker": "Personel_Kayit\\FrmGiris.cs",
@@ -42,24 +91,22 @@
               "RelativeToolTip": "Personel_Kayit\\FrmGiris.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAwCcAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-26T00:42:19.925Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-26T00:42:19.925Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "FrmGiris.cs [Design]",
               "DocumentMoniker": "C:\\Users\\ozan_\\source\\repos\\Personel_Kayit\\Personel_Kayit\\FrmGiris.cs",
               "RelativeDocumentMoniker": "Personel_Kayit\\FrmGiris.cs",
               "ToolTip": "C:\\Users\\ozan_\\source\\repos\\Personel_Kayit\\Personel_Kayit\\FrmGiris.cs [Design]",
               "RelativeToolTip": "Personel_Kayit\\FrmGiris.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-26T00:36:57.737Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-01-26T00:36:57.737Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "FrmGrafikler.cs",
               "DocumentMoniker": "C:\\Users\\ozan_\\source\\repos\\Personel_Kayit\\Personel_Kayit\\FrmGrafikler.cs",
               "RelativeDocumentMoniker": "Personel_Kayit\\FrmGrafikler.cs",
@@ -72,15 +119,14 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "FrmGrafikler.cs [Design]",
               "DocumentMoniker": "C:\\Users\\ozan_\\source\\repos\\Personel_Kayit\\Personel_Kayit\\FrmGrafikler.cs",
               "RelativeDocumentMoniker": "Personel_Kayit\\FrmGrafikler.cs",
               "ToolTip": "C:\\Users\\ozan_\\source\\repos\\Personel_Kayit\\Personel_Kayit\\FrmGrafikler.cs [Design]",
               "RelativeToolTip": "Personel_Kayit\\FrmGrafikler.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-26T00:18:53.984Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-01-26T00:18:53.984Z"
             }
           ]
         }

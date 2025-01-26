@@ -74,7 +74,7 @@ namespace Personel_Kayit
             //Toplam Maaş
             SqlConnection.Open();
             SqlCommand command5 = new SqlCommand("Select Sum(PerMaas) from Tbl_Personel", SqlConnection);
-            SqlDataReader dr5 = command4.ExecuteReader();
+            SqlDataReader dr5 = command5.ExecuteReader();
 
             while (dr5.Read())
             {
